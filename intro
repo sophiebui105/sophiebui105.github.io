@@ -1,0 +1,59 @@
+---
+layout: default
+title: Home
+---
+
+# Hi, I'm Sophie Bui 👋
+
+I'm a **Master of Predictive Analytics graduate** based in Perth, passionate about building data products that make real-world impact — from healthcare ML to business automation and dashboards.
+
+Right now, I’m looking for opportunities in **Data Analytics / Data Science / Data Engineering**, where I can combine strong technical skills with a product mindset.
+
+---
+
+## 🔍 What I do
+- **Data Analytics & BI**: Power BI, KPI dashboards, stakeholder reporting  
+- **Machine Learning**: model training, evaluation, feature engineering  
+- **Automation & Systems**: workflow automation, data pipelines, SQL tools  
+- **Product + Business Thinking**: turning messy problems into clear decisions  
+
+---
+
+## 🫀 Featured work
+### **Capstone Project – Heart Analytics**
+**Reducing false positives for Atrial Fibrillation (AF) & Atrial Flutter (AFL)**  
+Built a 2-stage clinical validator using RR/HRV + flutter-band features to improve reliability of foundational ECG models.
+
+👉 Repo: *[add your link here]*  
+👉 Short write-up: *[add your blog link here]*  
+
+---
+
+## 💼 Experience highlights
+**Data Analytics Intern – CTI Logistics**  
+- Built and improved Power BI dashboards for revenue and KPIs  
+- Worked with Snowflake + SQL data sources  
+- Delivered insights for operations and finance teams  
+
+**RPA Developer Intern – Jason Windows**  
+- Automated Supply Chain item-entry workflow using Power Automate  
+- Saved teams heavy manual effort and built user guides  
+
+---
+
+## ✍️ Latest blog posts
+- *Coming soon:* “What I learned building a clinical validator for AF/AFL detection”
+- *Coming soon:* “Power BI lessons from logistics dashboards”
+
+---
+
+## 🌱 A bit about me
+I love projects that sit at the intersection of **healthcare, AI, and business impact**.  
+Outside of work, I enjoy learning new tools, mentoring students, and exploring Perth on weekends.
+
+---
+
+## 📫 Let’s connect
+- LinkedIn: **[your LinkedIn link]**  
+- Email: **[your email]**  
+- GitHub: **https://github.com/sophiebui105**
